@@ -1,0 +1,11 @@
+{
+    "development" : {
+        "username" : "admin",
+        "password": "adminadmin",
+        "database":"example_db",
+        "host": "database-2.cjyeuacccel6.eu-north-1.rds.amazonaws.com",
+        "port": "3306",
+        "dialect": "mysql"
+    }
+}
+
